@@ -1,0 +1,3 @@
+C:/Users/vm180/source/repos/testBitReverse/out/build/x64-debug/CMakeFiles/testBitReverse.dir
+C:/Users/vm180/source/repos/testBitReverse/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/vm180/source/repos/testBitReverse/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
